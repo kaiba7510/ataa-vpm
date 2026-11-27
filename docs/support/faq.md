@@ -9,6 +9,6 @@
 - **元の見た目に戻したい**: 適用後なら右下の **適用を解除**（または Unity の Undo）を押してください。プレビューだけなら中央上の **調整を表示** を OFF にすると元に戻ります。
 - **導入・更新後にコンパイルエラーや「バージョンが一致していません」が出る**:
   - 旧オープンβ版（`Editor/AvatarTextureAutoAdjuster.Editor.dll` が入っていた版）が残ったまま新しい `.unitypackage` を上書きした可能性があります。`Assets/Cigarless/AvatarTextureAutoAdjuster` フォルダを一度削除してから、新しい `.unitypackage` をインポートし直してください（`Assets/Cigarless/ATAA_Data` は削除しないでください）。
-  - VCC 版でバージョン不一致が出た場合は、VCC の「Manage Project」から本パッケージを一度削除し、再度追加してください。
+  - VCC / ALCOM 版でバージョン不一致が出た場合は、VCC / ALCOM のプロジェクトの管理画面から本パッケージを一度削除し、再度追加してください。
 
 解決しないときは [お問い合わせ・不具合報告](/support/contact) からご連絡ください。
