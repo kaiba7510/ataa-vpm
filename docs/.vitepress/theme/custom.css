@@ -1,0 +1,25 @@
+/* 「VCC / ALCOM に追加」ボタン */
+.vp-doc a.add-button {
+  display: inline-block;
+  margin: 8px 12px 8px 0;
+  padding: 10px 22px;
+  border-radius: 20px;
+  background: var(--vp-c-brand-3);
+  color: var(--vp-c-white);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+.vp-doc a.add-button:hover {
+  background: var(--vp-c-brand-2);
+  color: var(--vp-c-white);
+}
+
+.vp-doc img.shot {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
+.vp-doc .center {
+  text-align: center;
+}
