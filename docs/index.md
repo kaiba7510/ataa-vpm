@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: Avatar Texture Auto Adjuster
-  text: メイクを、別のアバターの顔へ。
-  tagline: あるアバター用に作られた顔のメイクテクスチャを、別のアバターの顔に合わせて自動で変形・合成する Unity エディター拡張です。
+  text: 好きなメイクをあの子にも
+  tagline: お気に入りのメイクテクスチャを、別のアバターへ自動フィッティング＆合成できる Unity ツールです。
   actions:
     - theme: brand
       text: VCC / ALCOM に追加（体験版）
